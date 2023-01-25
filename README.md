@@ -44,6 +44,11 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" />
   </a>
+  <!--  react-native-->
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
+      src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg"
+      alt="html5" width="40" height="40" /> 
+  </a>
   <!--   react    -->
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
      <img
@@ -59,7 +64,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a> 
 <!--  html  -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+  <a href="https://developer.mozilla.org/ko/docs/Web/HTML" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /> 
   </a>
