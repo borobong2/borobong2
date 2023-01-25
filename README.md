@@ -51,12 +51,12 @@
   </a>
   <!--  firebase -->
   <a href="https://firebase.google.com/docs?hl=en" target="_blank" rel="noreferrer"> <img
-      src="https://user-images.githubusercontent.com/69666944/214493371-ed8b391d-033c-4d6b-ac86-1fcdb13a1b10.svg"
+      src="https://user-images.githubusercontent.com/69666944/214493548-e25829bd-243c-4a8c-9edd-27b4eba77007.svg"
       alt="firebase" width="40" height="40" /> 
   </a>
   <!--  aws-->
   <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"> <img
-      src="https://user-images.githubusercontent.com/69666944/214493289-d61e7d7e-fea0-4994-b197-001013812e73.svg"
+      src="https://1000logos.net/wp-content/uploads/2016/10/Amazon-logo-meaning-500x250.jpg"
       alt="aws" width="40" height="40" /> 
   </a>
   <!--   react    -->
