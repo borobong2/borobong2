@@ -50,13 +50,13 @@
       alt="react native" width="40" height="40" /> 
   </a>
   <!--  firebase -->
-  <a href="https://reactnative.dev/](https://firebase.google.com/docs?hl=en" target="_blank" rel="noreferrer"> <img
-      src="firebase-ar21.svg"
+  <a href="https://firebase.google.com/docs?hl=en" target="_blank" rel="noreferrer"> <img
+      src="https://user-images.githubusercontent.com/69666944/214492717-1a58e432-ec65-4ba4-b9d1-0a1dade9576b.svg"
       alt="firebase" width="40" height="40" /> 
   </a>
   <!--  aws-->
-  <a href="https://reactnative.dev/](https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg"
+  <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png"
       alt="aws" width="40" height="40" /> 
   </a>
   <!--   react    -->
