@@ -24,13 +24,13 @@
   <a href="https://www.linkedin.com/in/sangbong-lee-742713214//" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/borobong2/" target="blank"><img align="center"
+<!--   <a href="https://www.instagram.com/borobong2/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+      alt="_._.adam._" height="30" width="40" /></a> -->
 
   <a href="https://borobong230.tistory.com/"><img src="https://img.shields.io/badge/tistory-000?style=for-the-badge&logoColor=fff"></a>&nbsp;
 [![borobong230@gmail.com](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:borobong230@gmail.com)](mailto:sytkfkd96@gmail.com)
-  [![enoughanswer@naver.com](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:enoughanswer@naver.com)](mailto:ddullu_s@naver.com)
+<!--   [![enoughanswer@naver.com](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:enoughanswer@naver.com)](mailto:ddullu_s@naver.com) -->
 </p>
 
 <br>
