@@ -47,7 +47,17 @@
   <!--  react-native-->
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"
-      alt="html5" width="40" height="40" /> 
+      alt="react native" width="40" height="40" /> 
+  </a>
+  <!--  firebase -->
+  <a href="https://reactnative.dev/](https://firebase.google.com/docs?hl=en" target="_blank" rel="noreferrer"> <img
+      src="firebase-ar21.svg"
+      alt="firebase" width="40" height="40" /> 
+  </a>
+  <!--  aws-->
+  <a href="https://reactnative.dev/](https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg"
+      alt="aws" width="40" height="40" /> 
   </a>
   <!--   react    -->
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
