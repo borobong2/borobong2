@@ -46,7 +46,7 @@
   </a>
   <!--  react-native-->
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
-      src="[https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg](https://cdn.worldvectorlogo.com/logos/react-native-1.svg)"
+      src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"
       alt="html5" width="40" height="40" /> 
   </a>
   <!--   react    -->
