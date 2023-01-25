@@ -51,12 +51,12 @@
   </a>
   <!--  firebase -->
   <a href="https://firebase.google.com/docs?hl=en" target="_blank" rel="noreferrer"> <img
-      src="https://user-images.githubusercontent.com/69666944/214492717-1a58e432-ec65-4ba4-b9d1-0a1dade9576b.svg"
+      src="https://user-images.githubusercontent.com/69666944/214493371-ed8b391d-033c-4d6b-ac86-1fcdb13a1b10.svg"
       alt="firebase" width="40" height="40" /> 
   </a>
   <!--  aws-->
   <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png"
+      src="https://user-images.githubusercontent.com/69666944/214493289-d61e7d7e-fea0-4994-b197-001013812e73.svg"
       alt="aws" width="40" height="40" /> 
   </a>
   <!--   react    -->
