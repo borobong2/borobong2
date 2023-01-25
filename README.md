@@ -59,6 +59,7 @@
       src="https://1000logos.net/wp-content/uploads/2016/10/Amazon-logo-meaning-500x250.jpg"
       alt="aws" width="40" height="40" /> 
   </a>
+  <p align="left"/>
   <!--   react    -->
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
      <img
