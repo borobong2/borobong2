@@ -3,8 +3,13 @@
 
 <br>
 
-<p align="left"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fborobong2&count_bg=%231A9DD1&title_bg=%23A4A4A4&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true"/>
-  </p>
+<p align="left"> 
+  
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fborobong2&count_bg=%231A9DD1&title_bg=%23A4A4A4&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true"/>
+  <a href="https://hhpluscertificateofcompletion.oopy.io/">
+    <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+  </a>
+</p>
 
 <br>
 
@@ -92,9 +97,3 @@
   <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borobong2&hide_border=true&theme=tokyonight&layout=compact" align="center" />
 
 </div>
-
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
-</a>
-
-[Borobong2](https://github.com/borobong2)
