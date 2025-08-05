@@ -91,5 +91,7 @@
 <div align="left">
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=borobong2&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="center" /> 
   <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borobong2&hide_border=true&theme=tokyonight&layout=compact" align="center" />
-
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/borobong2"/>
+  </a>
 </div>
